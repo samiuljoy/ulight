@@ -1,4 +1,4 @@
-This is Ulight browser. A lightweight browser that comes by default on Puppy Linux(https://puppylinux.org). The original project exists on https://sourceforge.net/projects/lightfirefox/ . This is a i386 build of Light browser. Should work on most 64 bit OS. But if it does not, you can always build manually from source.
+This is Ulight browser. A lightweight browser that comes by default on Puppy Linux(http://puppylinux.org). The original project exists on https://sourceforge.net/projects/lightfirefox/ . This is a i386 build of Light browser. Should work on most 64 bit OS. But if it does not, you can always build manually from source.
 
 ### A word of advice
 
